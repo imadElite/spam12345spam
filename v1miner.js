@@ -19,8 +19,8 @@
 
 
 
-const ServerID = "523509748289503245";
-const ChannelID = "524956774554402876";
+const ServerID = "525396901248368654";
+const ChannelID = "525397041225138176";
 
 
 
